@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет! Я начинающий аналитик данных! 👋
 
-<!--
-**at-study-projects/at-study-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Переношу свой сильный коммерческий бэкграунд из сферы сбыта, закупок, логистики и коммерческой аналитики в IT. Успешно завершаю обучение на программе «Аналитик данных» в Нетологии и активно готовлюсь к Avito Bootcamp.
 
-Here are some ideas to get you started:
+## 🛠 Мой технический стек:
+* **Базы данных & SQL:** PostgreSQL, основы ClickHouse (оконные функции, CTE, сложные JOIN-запросы, витрины данных DWH).
+* **Анализ данных & Автоматизация:** Python (Pandas, NumPy, Seaborn, Plotly, Matpotlib).
+* **Визуализация & BI (В процессе активного освоения):** Yandex DataLens, Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Здесь предсавлены некоторые учебные проекты и кейсы:
+
+### ⚙️ 1. Аналитические скрипты SQL
+* **🔗 [Посмотреть SQL-код в репозитории](./sql-homeworks)**
+
+### 🐍 2. Исследовательский анализ данных на Python (EDA)
+* **🔗 [Посмотреть Jupyter-ноутбуки](./Python-Homeworks)**
+
+### 📐 3. Применение математических методов в аналитике
+* **🔗 [Посмотреть математические методы](./Math_Methods_Homeworks)**
+
+---
+### ⏳ Сейчас в работе (In Progress):
+* **Проектирование комплексного BI-дашборда в Yandex DataLens:** Кейс будет добавлен в портфолио в ближайшее время.
+
+---
+💼 Буду рада применить свое продуктовое мышление, коммерческий опыт и техническую базу на реальных задачах! 
